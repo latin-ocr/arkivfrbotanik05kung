@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik05kung_0691.png"; bbox 0 0 1942 3214; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1634 123 1793 160">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1634 123 1793 160">
+     <span class='ocr_line' id='line_1_1' title="bbox 1634 123 1793 160; baseline -0.013 0"><span class='ocrx_word' id='word_1_1' title='bbox 1634 123 1733 160; x_wconf 80' lang='lat' dir='ltr'><strong>TAF.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1766 123 1793 158; x_wconf 93' lang='lat' dir='ltr'>l.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 244 1802 2855">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 244 1802 2855">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 244 1802 2855; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 0 244 1802 2855; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 2942 1776 3083">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 2942 1776 3083">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 2942 1776 2991; baseline -0.007 -11"><span class='ocrx_word' id='word_1_4' title='bbox 0 2985 1 2991; x_wconf 22' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_5' title='bbox 1308 2944 1445 2979; x_wconf 62' lang='lat' dir='ltr'><strong>Liustryck</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1464 2944 1484 2973; x_wconf 77' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1499 2943 1660 2977; x_wconf 63' lang='lat' dir='ltr'>cedetquist</span> <span class='ocrx_word' id='word_1_8' title='bbox 1678 2942 1776 2972; x_wconf 68' lang='lat' dir='ltr'>sunm,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 0 3016 1766 3083; baseline -0.006 -22"><span class='ocrx_word' id='word_1_9' title='bbox 0 3023 17 3083; x_wconf 89' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_10' title='bbox 44 3036 109 3071; x_wconf 66' lang='lat' dir='ltr'>sp„</span> <span class='ocrx_word' id='word_1_11' title='bbox 139 3022 254 3060; x_wconf 86' lang='lat'>14-15.</span> <span class='ocrx_word' id='word_1_12' title='bbox 293 3021 575 3066; x_wconf 81' lang='lat' dir='ltr'>Enteromorpha</span> <span class='ocrx_word' id='word_1_13' title='bbox 613 3022 743 3056; x_wconf 83' lang='lat' dir='ltr'>aretica</span> <span class='ocrx_word' id='word_1_14' title='bbox 767 3019 798 3056; x_wconf 83' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_15' title='bbox 826 3019 870 3055; x_wconf 84' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_16' title='bbox 896 3018 977 3067; x_wconf 71' lang='lat' dir='ltr'>Ag„</span> <span class='ocrx_word' id='word_1_17' title='bbox 1008 3018 1122 3055; x_wconf 88' lang='lat'>16-18.</span> <span class='ocrx_word' id='word_1_18' title='bbox 1160 3018 1422 3064; x_wconf 85' lang='lat' dir='ltr'>Acrosiphonia</span> <span class='ocrx_word' id='word_1_19' title='bbox 1464 3016 1626 3064; x_wconf 86' lang='lat' dir='ltr'>glacialis</span> <span class='ocrx_word' id='word_1_20' title='bbox 1652 3025 1686 3050; x_wconf 91' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_21' title='bbox 1713 3025 1766 3062; x_wconf 88' lang='lat' dir='ltr'>sp.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

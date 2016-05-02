@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik05kung_0694.png"; bbox 0 0 1942 3214; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 184 128 1090 178">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 184 128 1090 178">
+     <span class='ocr_line' id='line_1_1' title="bbox 184 128 1090 178; baseline -0.014 -2"><span class='ocrx_word' id='word_1_1' title='bbox 184 138 328 178; x_wconf 73' lang='lat' dir='ltr'><strong>ARKN</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 353 130 446 177; x_wconf 80' lang='lat' dir='ltr'>F&#39;OR</span> <span class='ocrx_word' id='word_1_3' title='bbox 472 132 694 172; x_wconf 76' lang='lat' dir='ltr'><strong>BOTANJK.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 721 130 853 167; x_wconf 86' lang='lat' dir='ltr'>BAND</span> <span class='ocrx_word' id='word_1_5' title='bbox 879 128 912 166; x_wconf 84' lang='lat'>5.</span> <span class='ocrx_word' id='word_1_6' title='bbox 938 129 1008 166; x_wconf 83' lang='lat' dir='ltr'>N:0</span> <span class='ocrx_word' id='word_1_7' title='bbox 1038 128 1090 165; x_wconf 85' lang='lat'>14.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 105 225 1928 2997">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 105 225 1928 2997">
+     <span class='ocr_line' id='line_1_2' title="bbox 105 225 1928 2997; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 105 225 1928 2997; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 597 3034 1924 3130">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 597 3034 1924 3130">
+     <span class='ocr_line' id='line_1_3' title="bbox 597 3034 1917 3087; baseline -0.008 -8"><span class='ocrx_word' id='word_1_9' title='bbox 597 3045 663 3085; x_wconf 79' lang='lat'>1-4,</span> <span class='ocrx_word' id='word_1_10' title='bbox 691 3044 927 3079; x_wconf 76' lang='lat' dir='ltr'>Chantransia</span> <span class='ocrx_word' id='word_1_11' title='bbox 953 3043 1171 3078; x_wconf 71' lang='lat' dir='ltr'><strong>unilatcxalis</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1198 3053 1232 3078; x_wconf 86' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1258 3052 1323 3087; x_wconf 75' lang='lat' dir='ltr'>sp„</span> <span class='ocrx_word' id='word_1_14' title='bbox 1350 3040 1410 3076; x_wconf 88' lang='lat'>5-7</span> <span class='ocrx_word' id='word_1_15' title='bbox 1436 3038 1608 3086; x_wconf 84' lang='lat' dir='ltr'>Pylaiella</span> <span class='ocrx_word' id='word_1_16' title='bbox 1633 3034 1917 3083; x_wconf 79' lang='lat' dir='ltr'>penicilliformis</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1356 3083 1924 3130; baseline -0.012 -6"><span class='ocrx_word' id='word_1_17' title='bbox 1356 3088 1460 3124; x_wconf 90' lang='lat'>10-12</span> <span class='ocrx_word' id='word_1_18' title='bbox 1487 3086 1610 3122; x_wconf 83' lang='lat' dir='ltr'>Alaria</span> <span class='ocrx_word' id='word_1_19' title='bbox 1633 3083 1833 3130; x_wconf 85' lang='lat' dir='ltr'><strong>platyrhiza</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 1857 3092 1892 3118; x_wconf 87' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_21' title='bbox 1918 3093 1924 3117; x_wconf 74' lang='grc' dir='ltr'><strong><em>ε</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
